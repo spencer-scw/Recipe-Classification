@@ -1,6 +1,7 @@
 # Data
 recipes_w_search_terms.csv
 archive.zip
+ingredients/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
